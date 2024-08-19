@@ -1,0 +1,75 @@
+{
+  "cookies": [
+    {
+      "name": "AUTH_SESSION_ID",
+      "value": "b34be9a0-4c99-45c3-911a-0cd92a0440ba.27033b1ad4a8-54037",
+      "domain": "auth.medgenium.com",
+      "path": "/realms/nivalit-realm/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "AUTH_SESSION_ID_LEGACY",
+      "value": "b34be9a0-4c99-45c3-911a-0cd92a0440ba.27033b1ad4a8-54037",
+      "domain": "auth.medgenium.com",
+      "path": "/realms/nivalit-realm/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "KEYCLOAK_IDENTITY",
+      "value": "eyJhbGciOiJIUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1NWFmZjA3My01NDVkLTQ3NzYtODQ2Ny0yMTAwZTVhMGVhMzkifQ.eyJleHAiOjE3MjM4NTczMzQsImlhdCI6MTcyMzgyMTMzNCwianRpIjoiMWJmYWVlYmYtM2NmYS00ZjJkLWI4ZmItYmJkYzY1Nzg2ZTE0IiwiaXNzIjoiaHR0cHM6Ly9hdXRoLm1lZGdlbml1bS5jb20vcmVhbG1zL25pdmFsaXQtcmVhbG0iLCJzdWIiOiIwODc0YTEwZi05MDAwLTQ3NjQtYmJjZC00OGMxNjYwODJmNWUiLCJ0eXAiOiJTZXJpYWxpemVkLUlEIiwic2Vzc2lvbl9zdGF0ZSI6ImIzNGJlOWEwLTRjOTktNDVjMy05MTFhLTBjZDkyYTA0NDBiYSIsInNpZCI6ImIzNGJlOWEwLTRjOTktNDVjMy05MTFhLTBjZDkyYTA0NDBiYSIsInN0YXRlX2NoZWNrZXIiOiJiOXJhVkJRRi1Gd2FzcEhjOE5MSndob0o0N0hMcVpGWERtNWdReUo1d2M0In0.7M1SxScWGvP4W1i04DJ_IPyVWwvXuXv-Hy9LUQmUkB4",
+      "domain": "auth.medgenium.com",
+      "path": "/realms/nivalit-realm/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "KEYCLOAK_IDENTITY_LEGACY",
+      "value": "eyJhbGciOiJIUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI1NWFmZjA3My01NDVkLTQ3NzYtODQ2Ny0yMTAwZTVhMGVhMzkifQ.eyJleHAiOjE3MjM4NTczMzQsImlhdCI6MTcyMzgyMTMzNCwianRpIjoiMWJmYWVlYmYtM2NmYS00ZjJkLWI4ZmItYmJkYzY1Nzg2ZTE0IiwiaXNzIjoiaHR0cHM6Ly9hdXRoLm1lZGdlbml1bS5jb20vcmVhbG1zL25pdmFsaXQtcmVhbG0iLCJzdWIiOiIwODc0YTEwZi05MDAwLTQ3NjQtYmJjZC00OGMxNjYwODJmNWUiLCJ0eXAiOiJTZXJpYWxpemVkLUlEIiwic2Vzc2lvbl9zdGF0ZSI6ImIzNGJlOWEwLTRjOTktNDVjMy05MTFhLTBjZDkyYTA0NDBiYSIsInNpZCI6ImIzNGJlOWEwLTRjOTktNDVjMy05MTFhLTBjZDkyYTA0NDBiYSIsInN0YXRlX2NoZWNrZXIiOiJiOXJhVkJRRi1Gd2FzcEhjOE5MSndob0o0N0hMcVpGWERtNWdReUo1d2M0In0.7M1SxScWGvP4W1i04DJ_IPyVWwvXuXv-Hy9LUQmUkB4",
+      "domain": "auth.medgenium.com",
+      "path": "/realms/nivalit-realm/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "KEYCLOAK_SESSION",
+      "value": "nivalit-realm/0874a10f-9000-4764-bbcd-48c166082f5e/b34be9a0-4c99-45c3-911a-0cd92a0440ba",
+      "domain": "auth.medgenium.com",
+      "path": "/realms/nivalit-realm/",
+      "expires": 1723857345.728158,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "KEYCLOAK_SESSION_LEGACY",
+      "value": "nivalit-realm/0874a10f-9000-4764-bbcd-48c166082f5e/b34be9a0-4c99-45c3-911a-0cd92a0440ba",
+      "domain": "auth.medgenium.com",
+      "path": "/realms/nivalit-realm/",
+      "expires": 1723857345.728349,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://app.medgenium.com",
+      "localStorage": [
+        {
+          "name": "i18nextLng",
+          "value": "pl"
+        }
+      ]
+    }
+  ]
+}
