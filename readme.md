@@ -6,7 +6,6 @@ This project uses Playwright to automate the testing of the Medgenium applicatio
 ## Project Structure
 
 ```
-C:\DATA\git-ksa\mg\
 │
 ├── playwright/
 │   └── .auth/
